@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{tVjc:function(n,t,c){"use strict";c.d(t,"a",function(){return e});const e="http://mazenebada-001-site2.itempurl.com/api/"}}]);
