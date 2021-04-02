@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="calendar" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <style>
+            .cls-1{fill:#2c3e90}
+        </style>
+    </defs>
+    <g id="Group_3471">
+        <g id="Group_3470">
+            <circle id="Ellipse_292" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(57.188 29.688)"/>
+            <path id="Path_4216" d="M67.5 6.25h-4.062V3.125a3.125 3.125 0 0 0-6.25 0V6.25H42.969V3.125a3.125 3.125 0 0 0-6.25 0V6.25H22.656V3.125a3.125 3.125 0 0 0-6.25 0V6.25H12.5A12.514 12.514 0 0 0 0 18.75V67.5A12.514 12.514 0 0 0 12.5 80h23.906a3.125 3.125 0 0 0 0-6.25H12.5a6.257 6.257 0 0 1-6.25-6.25V18.75a6.257 6.257 0 0 1 6.25-6.25h3.906v3.125a3.125 3.125 0 0 0 6.25 0V12.5h14.063v3.125a3.125 3.125 0 0 0 6.25 0V12.5h14.219v3.125a3.125 3.125 0 0 0 6.25 0V12.5H67.5a6.257 6.257 0 0 1 6.25 6.25v17.813a3.125 3.125 0 0 0 6.25 0V18.75a12.514 12.514 0 0 0-12.5-12.5z" class="cls-1"/>
+            <path id="Path_4217" d="M288.906 270a18.906 18.906 0 1 0 18.906 18.906A18.928 18.928 0 0 0 288.906 270zm0 31.563a12.656 12.656 0 1 1 12.656-12.656 12.671 12.671 0 0 1-12.656 12.656z" class="cls-1" transform="translate(-227.813 -227.813)"/>
+            <path id="Path_4218" d="M378.656 336.406h-1.406v-3.281a3.125 3.125 0 0 0-6.25 0v6.406a3.125 3.125 0 0 0 3.125 3.125h4.531a3.125 3.125 0 0 0 0-6.25z" class="cls-1" transform="translate(-313.031 -278.438)"/>
+            <circle id="Ellipse_293" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(43.594 29.688)"/>
+            <circle id="Ellipse_294" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(30 43.281)"/>
+            <circle id="Ellipse_295" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(16.406 29.688)"/>
+            <circle id="Ellipse_296" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(16.406 43.281)"/>
+            <circle id="Ellipse_297" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(16.406 56.875)"/>
+            <circle id="Ellipse_298" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(30 56.875)"/>
+            <circle id="Ellipse_299" cx="3.125" cy="3.125" r="3.125" class="cls-1" transform="translate(30 29.688)"/>
+        </g>
+    </g>
+</svg>
